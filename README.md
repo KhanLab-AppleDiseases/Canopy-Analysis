@@ -27,9 +27,9 @@ This code does not account for a scale marker. You can convert the pixel output 
 2. Run the first piece of code to import all libraries and functions 
 3. Run the second and third piece of code to create the  necessary functions
 4. Change the folder paths and the name of the output data set (outputs as a .csv). The output folder should not be in the input folder. 
--- folder_path (string) = "full path to folder containing images"
--- data_name_out (string) = "name of output file (.csv)"
--- output_folder_path(string) = "full path path to folder for output dataset and processed images"
+- folder_path (string) = "full path to folder containing images"
+- data_name_out (string) = "name of output file (.csv)"
+- output_folder_path(string) = "full path path to folder for output dataset and processed images"
 5. Run the final function canopy_analysis(folder_path, data_name_out, output_folder_path) 
 
 Other information: 
