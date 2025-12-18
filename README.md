@@ -1,6 +1,6 @@
 # Canopy System Phenotyping with PlantCV
 
-The canopy phenotyping pipelines from the paper "Impact of scion and rootstock genotype on apple root system architecture."
+The canopy phenotyping pipelines from the paper "Scion and rootstock genotypes drive root system dynamics in modern apple orchards."
 
 ## Description 
 This code is designed to phenotype apple canopy images.  
